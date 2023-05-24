@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=NakazatoTaichi&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NakazatoTaichi)](https://github.com/anuraghazra/github-readme-stats)
