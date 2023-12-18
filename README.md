@@ -20,6 +20,7 @@ Here are some ideas to get you started:
    <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakazatoTaichi&layout=compact&count_private=true&show_icons=true" />
 </p>
 
- 
+<hr>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=NakazatoTaichi)](https://github.com/NakazatoTaichi/github-profile-trophy)
 
