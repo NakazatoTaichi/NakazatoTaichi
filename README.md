@@ -24,6 +24,6 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=8" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion&perline=8" />
 
 ![github-user-contribution](https://github.com/user-attachments/assets/da8f0eae-d142-4149-b818-ba5ad3f2134f)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
